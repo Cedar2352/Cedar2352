@@ -12,4 +12,8 @@ _Test some usage_
 
 ## 音频
 
-![Test some usage](https://dlink.host/sharepoint/aHR0cHM6Ly9sYXJjaDIzNTItbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvdHJfbGFyY2gyMzUyX29ubWljcm9zb2Z0X2NvbS9FZFoxZE9oWExoRkZzWGRXMXk3NWpvNEJJNU96UzI2NW1pRFB5Uk9wOFVJOXRBP25hdj1leUp5WldabGNuSmhiRWx1Wm04aU9uc2ljbVZtWlhKeVlXeEJjSEFpT2lKUGJtVkVjbWwyWlVadmNrSjFjMmx1WlhOeklpd2ljbVZtWlhKeVlXeEJjSEJRYkdGMFptOXliU0k2SWxkbFlpSXNJbkpsWm1WeWNtRnNUVzlrWlNJNkluWnBaWGNpTENKeVpXWmxjbkpoYkZacFpYY2lPaUpOZVVacGJHVnpUR2x1YTBOdmNIa2lmWDAmZT0xZ2pxSFY.mp3)
+<audio controls>
+  <source src="https://raw.githubusercontent.com/Cdear2352/Chrysanthemum/main/voice/Rugie-Sennzal.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
