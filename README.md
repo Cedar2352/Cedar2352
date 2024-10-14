@@ -13,7 +13,6 @@ _Test some usage_
 ## 音频
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/Cdear2352/Chrysanthemum/main/voice/Rugie-Sennzal.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Cedar2352/Chrysanthemum/main/voice/Rugie-Sennzal.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
