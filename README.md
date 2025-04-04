@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Cedar2352 
 
+> [!WARNING]
+> 🎉 Profile Upgrade, my new developer home:  
+>
+> [![New Main Account](https://img.shields.io/badge/Active_Profile-2088FF?logo=github&logoColor=white)](https://github.com/IGCrystal)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1200&color=3498DB&width=520&lines=Tech+Enthusiast;Creative+Coder;Lifelong+Learner;Multidisciplinary+Maker)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Cedar2352?style=social)](https://github.com/Cedar2352)
